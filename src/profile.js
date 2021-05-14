@@ -46,3 +46,50 @@ const skillsBar = [
     }
       
 ]
+
+
+const section3Title = "Past Projects"
+const projects = [
+    {
+       
+        id: "project1",
+        name: "Project 1",
+        skills: ["HTML, CSS, JS"],
+        url: ""
+    },
+    {
+        
+        id: "project2",
+        name: "Project 2",
+        skills: ["HTML, CSS, JS"],
+        url: ""
+    },
+    {
+       
+        id: "project3",
+        name: "Project 3",
+        skills: ["HTML, CSS, JS"],
+        url: ""
+    },
+    {
+       
+        id: "project4",
+        name: "Project 4",
+        skills: ["HTML, CSS, JS"],
+        url: ""
+    },
+    {
+      
+        id: "project5",
+        name: "Project 5",
+        skills: ["HTML, CSS, JS"],
+        url: ""
+    },
+    {
+        
+        id: "project6",
+        name: "Project 6",
+        skills: ["HTML, CSS, JS"],
+        url: ""
+    },
+]
