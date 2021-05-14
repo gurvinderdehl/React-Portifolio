@@ -1,8 +1,12 @@
 import React from "react";
+import Portifolio from "./pages/Portifolio";
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 function App () {
  return (
-   <div>Hello</div>
+   <Router>
+     <Route exact path ="/" component={Portifolio} />
+   </Router>
  )
 }
 
