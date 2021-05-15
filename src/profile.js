@@ -35,9 +35,6 @@ const skillsBar = [
         name: "Node",
         faClass: "fab fa-node"
     },{
-        name: "Java",
-        faClass: "fab fa-java"
-    },{
         name: "NPM",
         faClass: "fab fa-npm"
     },{
@@ -55,7 +52,7 @@ const projects = [
         id: "project1",
         name: "Project 1",
         skills: ["HTML, CSS, JS"],
-        url: ""
+        url: "https://mouldy-potatoes.herokuapp.com/"
     },
     {
         
@@ -93,3 +90,20 @@ const projects = [
         url: ""
     },
 ]
+
+const section5Title = "Get in Touch"
+const contact = {
+    pitch: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
+    copyright: "",
+    contactUrl: ''
+}
+
+const social = {
+    github: 'https://github.com',
+    facebook: 'https://facebook.com',
+    linkedin: 'https://linkedin.com',
+    instagram: 'https://instagram.com',
+    resume: ''
+}
+
+export { animation, header, background, about, skillsBar, projects, contact, social, section2title, section3Title, section5Title }
