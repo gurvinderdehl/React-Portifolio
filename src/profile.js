@@ -18,7 +18,7 @@ const background = {
 
 const section2title = "About Me"
 const about = {
-    paragraph: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. Orci phasellus egestas tellus rutrum tellus pellentesque eu. Dapibus ultrices in iaculis nunc. Pretium nibh ipsum consequat nisl vel. Consequat ac felis donec et odio. Orci nulla pellentesque dignissim enim sit amet. Scelerisque eu ultrices vitae auctor eu augue ut lectus arcu."
+    paragraph: "I'm 26 years old and I'm from Birmingham I was working as a software tester, but now I'm a web developer and this is my website I hope you like it"
 }
 
 const skillsBar = [
