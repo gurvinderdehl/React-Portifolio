@@ -18,7 +18,7 @@ const background = {
 
 const section2title = "About Me"
 const about = {
-    paragraph: "I'm 26 years old and I'm from Birmingham I was working as a software tester, but now I'm a web developer and this is my website I hope you like it"
+    paragraph: "I'm 26 years old and I'm from Birmingham I was working as a software tester, but now I'm a web developer and this is my website I hope you like it!"
 }
 
 const skillsBar = [
@@ -50,58 +50,58 @@ const projects = [
     {
        
         id: "project1",
-        name: "Project 1",
+        name: "Project 1 - Mouldy Potatoes",
         skills: ["HTML, CSS, JS"],
         url: "https://mouldy-potatoes.herokuapp.com/"
     },
     {
         
         id: "project2",
-        name: "Project 2",
+        name: "Project 2 - Popcornpedia",
         skills: ["HTML, CSS, JS"],
-        url: ""
+        url: "https://ben-pauley.github.io/Popcornpedia-Project/"
     },
     {
        
         id: "project3",
-        name: "Project 3",
+        name: "Project 3 - Team Profile Generator",
         skills: ["HTML, CSS, JS"],
-        url: ""
+        url: "https://github.com/gurvinderdehl/TeamProfile-Generator"
     },
     {
        
         id: "project4",
-        name: "Project 4",
+        name: "Project 4 - Weather Dashboard",
         skills: ["HTML, CSS, JS"],
-        url: ""
+        url: "https://gurvinderdehl.github.io/Homework-6-Weather-Dashboard-/"
     },
     {
       
         id: "project5",
-        name: "Project 5",
+        name: "Project 5 - Workday Scheduler",
         skills: ["HTML, CSS, JS"],
-        url: ""
+        url: "https://gurvinderdehl.github.io/Homework-5-Workday-Scheduler/"
     },
     {
         
         id: "project6",
-        name: "Project 6",
+        name: "Project 6 - Budget Tracker",
         skills: ["HTML, CSS, JS"],
-        url: ""
+        url: "https://floating-headland-48587.herokuapp.com/"
     },
 ]
 
 const section5Title = "Get in Touch"
 const contact = {
-    pitch: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
+    pitch: "If you have any queries, please contact me below!",
     copyright: "",
     contactUrl: ''
 }
 
 const social = {
-    github: 'https://github.com',
+    github: 'https://github.com/gurvinderdehl',
     facebook: 'https://facebook.com',
-    linkedin: 'https://linkedin.com',
+    linkedin: 'https://www.linkedin.com/in/gurvinder-dehl/',
     instagram: 'https://instagram.com',
     resume: ''
 }
